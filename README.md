@@ -1,4 +1,4 @@
 # explore1
 first look at github
 
-hello
+added test file with print 'hello'
